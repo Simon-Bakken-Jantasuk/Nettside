@@ -1,0 +1,11 @@
+- name: github 
+  link: https://www.github.com/Simon-Bakken-Jantasuk
+  icon: /assets/images/github-mark.webp
+
+- name: linkedin 
+  link: https://www.linkedin.com/in/simon-bakken-jantasuk
+  icon: /assets/images/linkedin.webp
+
+- name: rss 
+  link: /feed.xml 
+  icon: /assets/images/rss.webp

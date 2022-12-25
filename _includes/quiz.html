@@ -1,0 +1,9 @@
+<div id="quiz">
+{% for item in site.data.quiz %}
+<div class="question">
+	<p>{{ item.question }}</p>
+	<div class="answer">{{ item.answer }}</div>
+	<button class="toggle-button">Vis svar</button>
+</div>
+{% endfor %}
+</div>

@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="no" dir="ltr">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta name="description" content="" >
+		<link rel="stylesheet" href="/assets/css/styles.css" type="text/css" media="screen" title="main" charset="utf-8">
+		<?xml-stylesheet type="text/css" href="rss-style.css"?>
+		<script src="/assets/js/mathjax-config.js" defer></script>
+		<script id="MathJax-script" async src="/assets/mathjax/tex-chtml.js"></script>
+		<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+		<link rel="manifest" href="/assets/images/site.webmanifest">
+		<link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg" color="#5bbad5">
+		<link rel="shortcut icon" href="/assets/images/favicon.ico">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="msapplication-config" content="/assets/images/browserconfig.xml">
+		<meta name="theme-color" content="#ffffff">
+		<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml">
+		<title>Home– Simon bakken-jantasuk</title>
+	</head>
+	<body>
+		<header>
+			<div class="title">
+	<h1>
+		<span>Simon</span> 
+		<span>Bakken</span> 
+		<span>Jantasuk</span>
+	</h1>
+</div>
+
+			<div class="navbar">
+<nav>
+	
+	<a href="/" >Home</a>
+	
+	<a href="/about.html" >About</a>
+	
+	<a href="/blog.html" >Blog</a>
+	
+</nav>
+</div>
+
+		</header>
+		<main>
+			<article>
+				<main>
+	<div class="center-container">
+		<h1>MathJax!</h1>
+<p>04 Dec 2022 - Simon</p>
+<p>Ønsker du å implementere matematikk på nettsiden din?</p>
+
+<p>$\int {sin(x)} dx = -cos(x) + C$</p>
+
+<p>$\lim_{x \to 0} \frac{sin(x)}{x} = 1$</p>
+
+<p>Først så kan du lage en Javascript fil (Eksempel: <strong>mathjax-config.js</strong>) som inneholder–</p>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">window</span><span class="p">.</span><span class="nx">MathJax</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">tex</span><span class="p">:</span> <span class="p">{</span>
+    <span class="na">inlineMath</span><span class="p">:</span> <span class="p">[[</span><span class="dl">'</span><span class="s1">$</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1">$</span><span class="dl">'</span><span class="p">],</span> <span class="p">[</span><span class="dl">'</span><span class="se">\\</span><span class="s1">(</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="se">\\</span><span class="s1">)</span><span class="dl">'</span><span class="p">]]</span>
+  <span class="p">},</span>
+  <span class="na">svg</span><span class="p">:</span> <span class="p">{</span>
+    <span class="na">fontCache</span><span class="p">:</span> <span class="dl">'</span><span class="s1">global</span><span class="dl">'</span>
+  <span class="p">}</span>
+<span class="p">};</span>
+</code></pre></div></div>
+
+<p>Deretter så kan du lenke til dette– i en av HTML filene du vil ha MathJax–</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"mathjax-config.js"</span> <span class="na">defer</span> <span class="err">&lt;/</span><span class="na">script</span><span class="nt">&gt;</span>
+<span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text/javascript</span><span class="dl">"</span> <span class="nx">id</span><span class="o">=</span><span class="dl">"</span><span class="s2">MathJax-script</span><span class="dl">"</span> <span class="nx">defer</span>
+  <span class="nx">src</span><span class="o">=</span><span class="dl">"</span><span class="s2">https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js</span><span class="dl">"</span><span class="o">&gt;</span>
+<span class="nt">&lt;/script&gt;</span>
+</code></pre></div></div>
+
+<p>Da har du installert MathJax!</p>
+
+<p><img src="/assets/images/wojakmathjak.webp" alt="Mathjak" title="Mathjak!!!" /></p>
+
+<p>Dersom du er på PC’en– så får du disse alternativene ved å høyre klikke LaTex’en.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Show Math as</th>
+    </tr>
+    <tr>
+      <th>Copy to Clipboard</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Math Settings</td>
+    </tr>
+    <tr>
+      <td>Accessibility</td>
+    </tr>
+    <tr>
+      <td>Language</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>About MathJax</td>
+    </tr>
+    <tr>
+      <td>MathJax Help</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>“Copy to Clipboard”</em> vil kopiere LaTex koden.</p>
+
+
+
+
+	
+	</div>
+</main>
+
+			</article>
+		</main>
+		<footer>
+			<span>Copyright &copy; 2022–<script src="/assets/js/yearChanger.js"></script></span> 
+
+		</footer>
+		<script src="/assets/js/quiz.js"></script>
+	</body
+</html>

@@ -1,0 +1,29 @@
+---
+layout: center 
+---
+<div class="front">
+	{% highlight javascript %}
+	{% include_relative /assets/code/helloworld.js %}
+	{% endhighlight %}
+</div>
+<div id="container-favicon">
+	{% for social in site.data.social %}
+	<figure>
+		<a href="{{ social.link }}"><img class="favicon" src="{{ social.icon }}" alt="{{ social.name }}"></a>
+		<figcaption>{{ social.name }}</figcaption>
+	</figure>
+	{% endfor %}
+</div>
+
+<div class="latest-post">
+	<h3>Sist innlegg</h3>
+	{% for post in site.posts %}
+	{% if forloop.index <= 5 %}
+	<div class="post">
+		<span>{{ post.date | date_to_long_string }} <a href="{{ post.url }}" >{{ post.title }}</a></span>
+	</div>
+	{% endif %}
+	{% endfor %}
+</div>
+
+

@@ -1,0 +1,42 @@
+rss {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+channel {
+  margin-bottom: 20px;
+}
+
+title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0000ff;
+}
+
+description {
+  font-style: italic;
+}
+
+item {
+  margin-bottom: 10px;
+}
+
+title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+content:encoded {
+  font-size: 14px;
+}
+
+pubDate {
+  font-size: 12px;
+  color: #666666;
+}
+
+link {
+  text-decoration: none;
+  color: #0000ff;
+}

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home– Simon bakken-jantasuk</title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Onion siden er tilgjengelig!</title>
+      <description>&lt;p&gt;Dersom du ønsker mer trygghet ved å bruke nettsiden min, eller trygghet generelt over hvorledes du bruker internettet. Så har du muligheten til å bruke tor til å få tilgang!&lt;/p&gt;
+</description>
+      <content:encoded>
+	  <![CDATA[
+	    <p>Dersom du ønsker mer trygghet ved å bruke nettsiden min, eller trygghet generelt over hvorledes du bruker internettet. Så har du muligheten til å bruke tor til å få tilgang!</p>
+
+<h2 id="onion-link">Onion link</h2>
+
+<p>yohm622uaggl4iwyirw2v44xxmgzoz3yeoabtrt2wlft2npziqx6ulid.onion</p>
+
+
+	  ]]>
+      </content:encoded>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0100</pubDate>
+      <link>http://localhost:4000/2022/12/22/onion-site.html</link>
+      <guid isPermaLink="true">http://localhost:4000/2022/12/22/onion-site.html</guid>
+    </item>
+    
+    <item>
+      <title>Pendel, elektronkanon, loop og skråplan</title>
+      <description>&lt;p&gt;Fire forskjellige forsøk for fysikk 2.&lt;/p&gt;
+</description>
+      <content:encoded>
+	  <![CDATA[
+	    <p>Fire forskjellige forsøk for fysikk 2.</p>
+
+<p>Teori delen består av besvarelser av oppgaver for forsøkene i <strong>Kraft Fysikk 2</strong> boken.</p>
+
+<p>Mange av disse forsøkene har store mengder feilkilder. Dette er fordi lærer hadde bestemt at vi skulle gjøre fire forskjellige forsøk på en halv uke…
+Likevel, så kan du få nytte av rapportene som ressurs. I tillegg så regnes alt 
+som OSS (open source software). Det vil si at du har muligheten til å bruke bilder, koder og mer fra pdf filene (samme gjelder tex filene)</p>
+
+<p><strong>Her er pdf’er og tex’s filer som er klikkbare</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>PDF</th>
+      <th>Tex</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="/assets/pdf/pendel.pdf">Pendel</a></td>
+      <td><a href="/assets/tex/pendel.tex">Pendel</a></td>
+    </tr>
+    <tr>
+      <td><a href="/assets/pdf/elektronkanon.pdf">Elektronkanon</a></td>
+      <td><a href="/assets/tex/elektronKanon.tex">Elektronkanon</a></td>
+    </tr>
+    <tr>
+      <td><a href="/assets/pdf/loop.pdf">Loop</a></td>
+      <td><a href="/assets/tex/loop.tex">Loop</a></td>
+    </tr>
+    <tr>
+      <td><a href="/assets/pdf/skraaplan.pdf">Skråplan</a></td>
+      <td><a href="/assets/tex/skraaplan.tex">Skråplan</a></td>
+    </tr>
+  </tbody>
+</table>
+
+	  ]]>
+      </content:encoded>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0100</pubDate>
+      <link>http://localhost:4000/2022/12/19/fysikk-forsok.html</link>
+      <guid isPermaLink="true">http://localhost:4000/2022/12/19/fysikk-forsok.html</guid>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <description>&lt;p&gt;Oppgave om kristendommen og Islam (VG3 - religion og etikk)&lt;/p&gt;
+</description>
+      <content:encoded>
+	  <![CDATA[
+	    <p>Oppgave om kristendommen og Islam (VG3 - religion og etikk)</p>
+
+<h2 id="sentrale-trekk">Sentrale trekk</h2>
+
+<p>A. Beskriv de sentrale trekkene i kristendom og de sentrale trekk og de fem søyler islam</p>
+
+<p>B. Beskriv de sentrale trekkene i kristendom og islam, og sammenlign forskjeller/likheter</p>
+
+<p>C. Diskuter forskjeller og likheter mellom de sentrale trekkene i kristendommen og islam, og kommenter hvorfor man finner disse forskjellene/likhetene.</p>
+
+<h2 id="retninger">Retninger</h2>
+
+<p>A. Beskrive de ulike retningene i kristendommen: katolske kirke, lutherske kirke og en selvbestemt retning</p>
+
+<p>B. Beskrive ulike retninger i Islam: sunni, shia og sufisme.</p>
+
+<p>C. Diskutere forskjeller og likheter mellom de ulike retningene i hver religion.</p>
+
+<h2 id="oppgave">Oppgave</h2>
+
+<p>Finn en læringspartner: en snakker om de sentrale trekkene til islam; og diskuter de forskjellige retningene i kristendommen;en annen snakker om de sentrale trekkene i kristendommern, og diskuterer de forskjellige retningene i islam. Begge skal gå gjennom alle punktene på en naturlig måte.</p>
+
+	  ]]>
+      </content:encoded>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0100</pubDate>
+      <link>http://localhost:4000/2022/12/17/religion.html</link>
+      <guid isPermaLink="true">http://localhost:4000/2022/12/17/religion.html</guid>
+    </item>
+    
+    <item>
+      <title>La oss snakke litt om chatgpt</title>
+      <description>&lt;p&gt;Hva chatgpt er, hvorledes den fungerer og hva har det å si for fremtiden?&lt;/p&gt;
+</description>
+      <content:encoded>
+	  <![CDATA[
+	    <p>Hva chatgpt er, hvorledes den fungerer og hva har det å si for fremtiden?</p>
+
+<p>Chatgpt er en kunstig intelligens. Det som er så imponerende med chatgpt er hvor– NATURLIG– den er med sine svar. Tenk det som en personlig MENTOR. Du kan spørre denne tingen hva som helst! og oftest få et nøyaktig svar på det du leter etter. Det som er viktig er å faktisk spørre spørsmål som du kan få nytte av…</p>
+
+<p>Ønsker du å finne ut hvorfor du fikk en repository error når du gjør</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>dnf update 
+</code></pre></div></div>
+
+<p>så vil vil chatgpt forklare error’en og gi mulige løsninger på hvorledes du kan løse problemet.</p>
+
+<p>Ønsker du å spørre spørsmål om når rema 1000 åpner– så er dette en enorm NORMIE ALERT; og du burde aldri bruke en AI. Ingenting er imponerende med at en AI kan være en søkerobot. Det som er imponerende er hvorledes den bruker inputen, og den erfaringen den har. Det jeg synes er imponerende med chatgpt er hvor flink den er til å programmere…</p>
+
+<p>La oss spørre chatgpt hvorledes den kan sentrere en div.</p>
+
+<p><em>How do I center a div?</em></p>
+
+<p>Dette er hva den sier…</p>
+
+<blockquote>
+  <p>To center a div, you can use the CSS margin property. More specifically, you can set the margin property to auto to horizontally center the div within its parent container.</p>
+</blockquote>
+
+<blockquote>
+  <p>Here is an example:</p>
+</blockquote>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">div</span> <span class="p">{</span>
+  <span class="nl">margin</span><span class="p">:</span> <span class="nb">auto</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<blockquote>
+  <p>If you want to center the div both horizontally and vertically, you can use the position property in combination with the top and left properties. Here is an example:</p>
+</blockquote>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">div</span> <span class="p">{</span>
+  <span class="nl">position</span><span class="p">:</span> <span class="nb">absolute</span><span class="p">;</span>
+  <span class="nl">top</span><span class="p">:</span> <span class="m">50%</span><span class="p">;</span>
+  <span class="nl">left</span><span class="p">:</span> <span class="m">50%</span><span class="p">;</span>
+  <span class="nl">transform</span><span class="p">:</span> <span class="n">translate</span><span class="p">(</span><span class="m">-50%</span><span class="p">,</span> <span class="m">-50%</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<blockquote>
+  <p>The above code positions the div at the center of its parent container by setting the top and left properties to 50%, and then using the transform property to adjust the div by moving it back up and to the left by half its own width and height. This effectively centers the div both horizontally and vertically.</p>
+</blockquote>
+
+<blockquote>
+  <p>I hope this helps! Let me know if you have any other questions.</p>
+</blockquote>
+
+<video controls=""><source src="/assets/images/webm/impressivebateman.webm" type="video/webm" /></video>
+
+<p>Imponerende– men det hadde nok vært bedre om den hadde tatt hensyn til hvordan dette hadde sett ut på andre enheter også. Flexbox, eller grid hadde vært bedre å sentrere en div.</p>
+
+<p>Likevel– så er jeg ganske sikker på om jeg spurte chatgpt om andre løsninger, som er kanskje bedre, eller som kunne tilfredstilt andre brukere– så hadde den mest sannsynlig gjort det!</p>
+
+<p>Hva om jeg ønsker en shell script som gir meg notifications når jeg får en mail?</p>
+
+<p><em>Make a shell script that will give me a notification when I get an email.</em></p>
+
+<blockquote>
+  <p>Here is a simple script that will give you a notification when you receive an email:</p>
+</blockquote>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+
+<span class="c"># Check for new emails every minute</span>
+<span class="k">while </span><span class="nb">true
+</span><span class="k">do</span>
+  <span class="c"># Use the "mail" command to check for new emails</span>
+  <span class="c"># The "mail" command will exit with a non-zero status code if there are no new emails</span>
+  <span class="k">if </span>mail<span class="p">;</span> <span class="k">then</span>
+    <span class="c"># Use the "notify-send" command to send a notification</span>
+    notify-send <span class="s2">"You have new mail!"</span>
+  <span class="k">fi</span>
+
+  <span class="c"># Sleep for 60 seconds before checking again</span>
+  <span class="nb">sleep </span>60
+<span class="k">done</span>
+</code></pre></div></div>
+
+<blockquote>
+  <p>Save the script to a file, make it executable using the chmod command, and then run it in the background using the nohup command. For example:</p>
+</blockquote>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">chmod</span> +x /path/to/script.sh
+<span class="nb">nohup</span> /path/to/script.sh &amp;
+</code></pre></div></div>
+
+<blockquote>
+  <p>This script uses the mail command, which may not be available on all systems. You may need to use a different command to check for new emails, depending on your mail server and configuration.</p>
+</blockquote>
+
+<blockquote>
+  <p>Note: This script is intended as a simple example to illustrate the basic principles of checking for new emails and sending notifications. It is not intended for production use.</p>
+</blockquote>
+
+<p>La oss ikke overestimere chatgpt.</p>
+
+<p>Ofte så gjør den også feil…</p>
+
+<p>Men– i teorien så kan hvem som helst kode uten å faktisk forstå kode. Dette kan skape problemer senere i fremtiden med personer som faktisk er system utviklere.</p>
+
+<p>Jeg tror at AI kan godt gjøre det lettere for oss skrive bedre kode, og gjøre oss mer produktiv. Men jeg vet ikke om det kommer til å være en full erstartning…</p>
+
+<p>Det handler også om kreativitet. Det med å kunne å være kreativ er nok kanskje det viktigste ved å være en system utvikler. Det går nok an å gjøre AI kreativ ved at den lager nye informasjon– ut fra det den vet allerede. Dette vet jeg ikke– men fremtiden er meget interessant!</p>
+
+<p>Chatgpt kommer til å være noe jeg kommer til å fortsette å bruke som hjelpemiddel. I tillegg til google– som også hjelper en del.</p>
+
+<p>Men ved å bruke begge to sammen– så er du godt på vei til å utvikle dine ferdigheter!</p>
+
+<video controls=""><source src="/assets/images/webm/dancingbateman.webm" type="video/webm" /></video>
+
+	  ]]>
+      </content:encoded>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0100</pubDate>
+      <link>http://localhost:4000/2022/12/15/chatgpt.html</link>
+      <guid isPermaLink="true">http://localhost:4000/2022/12/15/chatgpt.html</guid>
+    </item>
+    
+    <item>
+      <title>Hvorledes finner vi en rekursiv formel for en rekke?</title>
+      <description>&lt;p&gt;La oss se på noen rekker.&lt;/p&gt;
+</description>
+      <content:encoded>
+	  <![CDATA[
+	    <p>La oss se på noen rekker.</p>
+
+<p>Aritmetiske rekken på eksplisitt form er, 
+$a_n = a_1 + (n - 1)d$</p>
+
+<p>Setter inn for $ n + 1 $,</p>
+
+<p>$a_{n + 1} = a_1 + (n + 1 - 1)d$</p>
+
+<p>$a_1 + nd$</p>
+
+<p>$ a_n = a_1 + nd - d $</p>
+
+<p>$= a_n = a_{n + 1} + d$</p>
+
+<p>Hvor vi løser for $a_{n + 1}$</p>
+
+<p>Vi får $a_{n + 1} = a_n + d$</p>
+
+<p>Som var det vi skulle bevise!</p>
+
+<p>Hvis du vil finne en $ a_{n - 1}$ så setter du bare inn for $n - 1$</p>
+
+<p>Det samme fungerer for en geometrisk rekke.</p>
+
+<p>$a_n = a_1k^{n-1}$</p>
+
+<p>$= a_1k^nk^{-1}$</p>
+
+<p>$ a_{n + 1} = a_1k^{n} $</p>
+
+<p>$ a_n = \frac{a_{n+1}}{k}$</p>
+
+<p>$ a_{n+1} = a_nk$</p>
+
+<p>Og en harmonisk rekke!</p>
+
+<p>$\sum_{n = 1}^{\infty} \frac{1}{n} $</p>
+
+<p>$a_n = \frac{1}{n}$</p>
+
+<p>$ a_{n + 1} = \frac{1}{n + 1}$</p>
+
+<p>$a_nn = 1$</p>
+
+<p>$ a_{n + 1} = \frac{a_nn}{n + 1}$</p>
+
+	  ]]>
+      </content:encoded>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0100</pubDate>
+      <link>http://localhost:4000/2022/12/07/eksplisitt.html</link>
+      <guid isPermaLink="true">http://localhost:4000/2022/12/07/eksplisitt.html</guid>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <description>&lt;p&gt;Hvis du har flere sider; som har en footer og navbar– så er det fint å ha noe som automatisk legger det til. En statisk nettside generator som Jekyll kan være løsningen.&lt;/p&gt;
+</description>
+      <content:encoded>
+	  <![CDATA[
+	    <p>Hvis du har flere sider; som har en footer og navbar– så er det fint å ha noe som automatisk legger det til. En statisk nettside generator som Jekyll kan være løsningen.</p>
+
+<p><img src="/assets/images/smirk.webp" alt="Wojak Smirk" title="Happy Wojak" /></p>
+
+<p>Jekyll er en statisk nettside generator som er kodet i Ruby, og bruker markdown til å lage statisk innhold. Fungerer fint hvis du bare ønsker en lett nettside, som en blog, eller hjemmeside. Ønsker du noe mer– som en database eller dynamisk innhold så bruk noe annet. Eksempeler: Ruby on Rails og Django.</p>
+
+<p>Så skjekk ut Jekyll! <a href="https://jekyllrb.com/">https://jekyllrb.com/</a></p>
+
+
+	  ]]>
+      </content:encoded>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0100</pubDate>
+      <link>http://localhost:4000/programmering/2022/12/04/jekyll.html</link>
+      <guid isPermaLink="true">http://localhost:4000/programmering/2022/12/04/jekyll.html</guid>
+    </item>
+    
+    <item>
+      <title>MathJax!</title>
+      <description>&lt;p&gt;Ønsker du å implementere matematikk på nettsiden din?&lt;/p&gt;
+</description>
+      <content:encoded>
+	  <![CDATA[
+	    <p>Ønsker du å implementere matematikk på nettsiden din?</p>
+
+<p>$\int {sin(x)} dx = -cos(x) + C$</p>
+
+<p>$\lim_{x \to 0} \frac{sin(x)}{x} = 1$</p>
+
+<p>Først så kan du lage en Javascript fil (Eksempel: <strong>mathjax-config.js</strong>) som inneholder–</p>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">window</span><span class="p">.</span><span class="nx">MathJax</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">tex</span><span class="p">:</span> <span class="p">{</span>
+    <span class="na">inlineMath</span><span class="p">:</span> <span class="p">[[</span><span class="dl">'</span><span class="s1">$</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1">$</span><span class="dl">'</span><span class="p">],</span> <span class="p">[</span><span class="dl">'</span><span class="se">\\</span><span class="s1">(</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="se">\\</span><span class="s1">)</span><span class="dl">'</span><span class="p">]]</span>
+  <span class="p">},</span>
+  <span class="na">svg</span><span class="p">:</span> <span class="p">{</span>
+    <span class="na">fontCache</span><span class="p">:</span> <span class="dl">'</span><span class="s1">global</span><span class="dl">'</span>
+  <span class="p">}</span>
+<span class="p">};</span>
+</code></pre></div></div>
+
+<p>Deretter så kan du lenke til dette– i en av HTML filene du vil ha MathJax–</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"mathjax-config.js"</span> <span class="na">defer</span> <span class="err">&lt;/</span><span class="na">script</span><span class="nt">&gt;</span>
+<span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text/javascript</span><span class="dl">"</span> <span class="nx">id</span><span class="o">=</span><span class="dl">"</span><span class="s2">MathJax-script</span><span class="dl">"</span> <span class="nx">defer</span>
+  <span class="nx">src</span><span class="o">=</span><span class="dl">"</span><span class="s2">https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js</span><span class="dl">"</span><span class="o">&gt;</span>
+<span class="nt">&lt;/script&gt;</span>
+</code></pre></div></div>
+
+<p>Da har du installert MathJax!</p>
+
+<p><img src="/assets/images/wojakmathjak.webp" alt="Mathjak" title="Mathjak!!!" /></p>
+
+<p>Dersom du er på PC’en– så får du disse alternativene ved å høyre klikke LaTex’en.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Show Math as</th>
+    </tr>
+    <tr>
+      <th>Copy to Clipboard</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Math Settings</td>
+    </tr>
+    <tr>
+      <td>Accessibility</td>
+    </tr>
+    <tr>
+      <td>Language</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>About MathJax</td>
+    </tr>
+    <tr>
+      <td>MathJax Help</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>“Copy to Clipboard”</em> vil kopiere LaTex koden.</p>
+
+
+	  ]]>
+      </content:encoded>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0100</pubDate>
+      <link>http://localhost:4000/matematikk/2022/12/04/MathJax.html</link>
+      <guid isPermaLink="true">http://localhost:4000/matematikk/2022/12/04/MathJax.html</guid>
+    </item>
+    
+  </channel>
+</rss>
